@@ -40,4 +40,9 @@
     <string name="this_is_a_fuck_null">这里他妈的有个空错</string>
     <string name="play_in_wifi_environment">只在WiFi环境下自动播放</string>
     <string name="only_one_season">只有当前赛季数据</string>
+    <string name="shoping">商城</string>
+    <string name="cao">种草</string>
+    <string name="fa">发布</string>
+    <string name="say">扩散</string>
+    <string name="home">回家</string>
 </resources>
